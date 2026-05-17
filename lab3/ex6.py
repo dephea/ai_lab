@@ -4,3 +4,5 @@ odd_list = filter(lambda a: True if a % 2 != 0 else False, orig_list)
 
 print("even list:", list(even_list))
 print("odd list:", list(odd_list))
+
+# https://sharpsight.ai/blog/numpy-axes-explained/ sau https://www.statology.org/numpy-axis/
